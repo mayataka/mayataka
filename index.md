@@ -18,15 +18,17 @@ Bachelor of Engineering Science
 - Hitachi, Ltd., R&D, 2019-2020
 
 ## Publications
-- <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient direct optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781)
-- <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," [arXiv:2102.09731](https://arxiv.org/abs/2102.09731)
-- <u>S. Katayama</u>, T. Ohtsuka, "Inverse dynamics‐based formulation of finite horizon optimal control problems for rigid‐body system," *Optimal Control Applications and Methods*, pp. 1-19, 2021, https://doi.org/10.1002/oca.2750  
-- <u>S. Katayama</u>, T. Ohtsuka, "Riccati recursion for optimal control problems of nonlinear switched systems," IFAC Conference on Nonlinear Model Predictive Control 2021 (NMPC 2021), 2021 ([arXiv:2102.02065](https://arxiv.org/abs/2102.02065))  
-- <u>S. Katayama</u>, T. Ohtsuka, "Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems," IEEE International Conference on Robotics and Automation 2021 (ICRA 2021), 2021 ([arXiv:2106.04176](https://arxiv.org/abs/2106.04176))
-- S. Katayama, T. Ohtsuka, "Efficient solution method based on inverse dynamics of optimal control problems for fixed-based rigid-body systems," IFAC World Congress 2020, Vol. 53, No. 2, pp. 6483-6489, 2020, https://doi.org/10.1016/j.ifacol.2020.12.1794
-- S. Katayama, T. Ohtsuka, "Automatic code generation tool for nonlinear model predictive control with Jupyter," IFAC World Congress 2020, Vol. 53, No. 2, pp. 7033-7040, https://doi.org/10.1016/j.ifacol.2020.12.447
-- S. Katayama, M. Doi, T. Ohtsuka, "A moving switching sequence approach for nonlinear model predictive control of switched systems with state-dependent switches and state jumps," *International Journal of Robust and Nonlinear Control*, Vol. 30, No.2, pp. 719-740, 2020, https://doi.org/10.1002/rnc.4804
- 
+- <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient direct optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
+- <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
+- <u>S. Katayama</u>, T. Ohtsuka, "Inverse dynamics‐based formulation of finite horizon optimal control problems for rigid‐body system," *Optimal Control Applications and Methods*, pp. 1-19, 2021, https://doi.org/10.1002/oca.2750.  
+- <u>S. Katayama</u>, T. Ohtsuka, "Riccati recursion for optimal control problems of nonlinear switched systems," IFAC Conference on Nonlinear Model Predictive Control 2021 (NMPC 2021), 2021 ([arXiv:2102.02065](https://arxiv.org/abs/2102.02065)).  
+- <u>S. Katayama</u>, T. Ohtsuka, "Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems," IEEE International Conference on Robotics and Automation 2021 (ICRA 2021), 2021 ([arXiv:2106.04176](https://arxiv.org/abs/2106.04176)).
+- S. Katayama, T. Ohtsuka, "Efficient solution method based on inverse dynamics of optimal control problems for fixed-based rigid-body systems," IFAC World Congress 2020, Vol. 53, No. 2, pp. 6483-6489, 2020, https://doi.org/10.1016/j.ifacol.2020.12.1794.
+- S. Katayama, T. Ohtsuka, "Automatic code generation tool for nonlinear model predictive control with Jupyter," IFAC World Congress 2020, Vol. 53, No. 2, pp. 7033-7040, https://doi.org/10.1016/j.ifacol.2020.12.447.
+- S. Katayama, M. Doi, T. Ohtsuka, "A moving switching sequence approach for nonlinear model predictive control of switched systems with state-dependent switches and state jumps," *International Journal of Robust and Nonlinear Control*, Vol. 30, No.2, pp. 719-740, 2020, https://doi.org/10.1002/rnc.4804.
+- S. Katayama and T. Ohtsuka, "Scenario-based nonlinear model predictive control for switched systems with externally forced switchings," 2018 57th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE), pp. 1098-1103, 2018, doi: 10.23919/SICE.2018.8492568.
+- S. Katayama, Y. Satoh, M. Doi and T. Ohtsuka, "Nonlinear model predictive control for systems with state-dependent switches and state jumps using a penalty function method," 2018 IEEE Conference on Control Technology and Applications (CCTA), pp. 312-317, 2018, doi: 10.1109/CCTA.2018.8511448.
+- S. Katayama, Y. Satoh, M. Doi and T. Ohtsuka, "Nonlinear model predictive control for systems with autonomous state jumps using a penalty function method," 2017 11th Asian Control Conference (ASCC), pp. 2125-2130, 2017, doi: 10.1109/ASCC.2017.8287503.
 
 ## Open Source Softwares
 - [idocp](https://github.com/mayataka/idocp)  
