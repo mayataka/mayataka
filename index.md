@@ -1,7 +1,7 @@
 ## Sotaro Katayama
 
-I'm a Ph. D. student in Integrated Dynamical Systems Lab([English](http://www.ids.sys.i.kyoto-u.ac.jp/index_e.html)/[Japanese](http://www.ids.sys.i.kyoto-u.ac.jp/)) advised by Prof. Toshiyuki Ohtsuka. 
-My research lies on optimization-based control and planning of robotic systems, especially modle predictive control (MPC) for legged robotics. 
+I'm a Ph. D. student in Integrated Dynamical Systems Lab ([English](http://www.ids.sys.i.kyoto-u.ac.jp/index_e.html)/[Japanese](http://www.ids.sys.i.kyoto-u.ac.jp/)) advised by Prof. Toshiyuki Ohtsuka. 
+My research lies on optimization-based control and planning of robotic systems, especially model predictive control (MPC) for legged robotics. 
 I'm also interested in algorithms and theoretical analysis (e.g., stability) of MPC, including MPC for switched systems. 
 
 ## Education
