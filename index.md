@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Sotaro Katayama
 
-You can use the [editor on GitHub](https://github.com/mayataka/mayataka/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Ph. D. student in Integrated Dynamical Systems Lab([English](http://www.ids.sys.i.kyoto-u.ac.jp/index_e.html)/[Japanese](http://www.ids.sys.i.kyoto-u.ac.jp/)) advised by Prof. Toshiyuki Ohtsuka. 
+My research lies on optimization-based control and planning of robotic systems, especially for legged robotics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+- Kyoto University, 2020 - Present  
+Ph.D student
 
-### Markdown
+- Graduate School of Informatics, Kyoto University, Oct. 2013 - 2017  
+Master of Informatics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Kyoto University, Oct. 2013 - 2017  
+Bachelor of Engineering Science
 
-```markdown
-Syntax highlighted code block
+## Work Experience
+- Hitachi, Ltd., R&D, 2020-2021
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
 
-- Bulleted
-- List
+## Open Source Softwares
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayataka/mayataka/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
