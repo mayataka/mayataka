@@ -31,9 +31,9 @@ Bachelor of Engineering Science
 - S. Katayama, Y. Satoh, M. Doi and T. Ohtsuka, "Nonlinear model predictive control for systems with state-dependent switches and state jumps using a penalty function method," 2018 IEEE Conference on Control Technology and Applications (CCTA), pp. 312-317, 2018, doi: 10.1109/CCTA.2018.8511448.
 - S. Katayama, Y. Satoh, M. Doi and T. Ohtsuka, "Nonlinear model predictive control for systems with autonomous state jumps using a penalty function method," 2017 11th Asian Control Conference (ASCC), pp. 2125-2130, 2017, doi: 10.1109/ASCC.2017.8287503.
 
-## Open Source Softwares
+## Open Source Software
 - [idocp](https://github.com/mayataka/idocp)  
-This is a collection of the very efficient C++ optimal control problem solvers for multibody robots with/without contacts, e.g., for robot manipulators and legged robots.  
+This is a collection of the very efficient C++/Python optimal control problem solvers for multibody robots with/without contacts, e.g., for robot manipulators and legged robots.  
 <img src="https://raw.githubusercontent.com/wiki/mayataka/idocp/images/mpc_trotting.gif" width="250">  
   - [crane_x7_mpc_ros2](https://github.com/mayataka/crane_x7_mpc_ros2)  
   This is an example imepelemtation of MPC for RT corpolation's robot manipulator CRANE-X7 on ROS2 using ros2_control.   
@@ -44,7 +44,7 @@ This is a collection of the very efficient C++ optimal control problem solvers f
 This is an optimal control solver for switched systems on Julia language.
 
 - [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter)  
-This is a code generation tool for MPC with the continuous/GMRES-type algorithms.
+This is a Jupyter-based C++ code generation tool for MPC with the continuous/GMRES-type algorithms.
 The major differences from the [Maple-version](https://www.maplesoft.com/applications/view.aspx?SID=153555) are: 1) Jupyter-based code generation interface, 2) Fischer-Burumeister function for inequality constraints, 3) the multiple-shooting variants of the continuous/GMRE method (possibly faster than the original continuation/GMRES).  
 <img src="https://raw.githubusercontent.com/wiki/mayataka/CGMRES/images/cartpole.gif" width="250">  
 
