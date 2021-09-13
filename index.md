@@ -33,8 +33,8 @@ Bachelor of Engineering Science
 
 ## Open Source Softwares
 - [idocp](https://github.com/mayataka/idocp)  
-This is a collection of the very efficient C++ optimal control problem solvers for multibody robots with/without contacts, e.g., for robot manipulators and legged robots.
-<img src="https://raw.githubusercontent.com/wiki/mayataka/idocp/images/mpc_trotting.gif" width="250">
+This is a collection of the very efficient C++ optimal control problem solvers for multibody robots with/without contacts, e.g., for robot manipulators and legged robots.  
+<img src="https://raw.githubusercontent.com/wiki/mayataka/idocp/images/mpc_trotting.gif" width="250">  
   - [crane_x7_mpc_ros2](https://github.com/mayataka/crane_x7_mpc_ros2)  
   This is an example imepelemtation of MPC for RT corpolation's robot manipulator CRANE-X7 on ROS2 using ros2_control.   
   - [crane_x7_mpc](https://github.com/mayataka/crane_x7_mpc)  
@@ -45,8 +45,8 @@ This is an optimal control solver for switched systems on Julia language.
 
 - [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter)  
 This is a code generation tool for MPC with the continuous/GMRES-type algorithms.
-The major differences from the [Maple-version](https://www.maplesoft.com/applications/view.aspx?SID=153555) are: 1) Jupyter-based code generation interface, 2) Fischer-Burumeister function for inequality constraints, 3) the multiple-shooting variants of the continuous/GMRE method (possibly faster than the original continuation/GMRES).
-<img src="https://raw.githubusercontent.com/wiki/mayataka/CGMRES/images/cartpole.gif" width="250">
+The major differences from the [Maple-version](https://www.maplesoft.com/applications/view.aspx?SID=153555) are: 1) Jupyter-based code generation interface, 2) Fischer-Burumeister function for inequality constraints, 3) the multiple-shooting variants of the continuous/GMRE method (possibly faster than the original continuation/GMRES).  
+<img src="https://raw.githubusercontent.com/wiki/mayataka/CGMRES/images/cartpole.gif" width="250">  
 
 
 - [DDPCodeGen](https://github.com/mayataka/DDPCodeGen)  
