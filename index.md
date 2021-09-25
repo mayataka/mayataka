@@ -43,6 +43,11 @@ This is a collection of the very efficient C++/Python optimal control problem so
 - [SwitchedOCP.jl](https://github.com/mayataka/SwitchedOCP.jl)  
 This is an optimal control solver for switched systems on Julia language.
 
+- [maafa](https://github.com/mayataka/maafa)  
+This is a PyTorch implementation of a reinforcement-learning-based data-driven MPC proposed by [S. Gros and M. Zanon](https://ieeexplore.ieee.org/abstract/document/8701462), which I personally call "MPC as a Function Approximator", as introduced in the paper. 
+<img src="https://raw.githubusercontent.com/wiki/mayataka/maafa/images/pendulum_inaccurate.gif" width="250"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/maafa/images/pendulum_q_learning.gif" width="250">
+
 - [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter)  
 This is a Jupyter-based C++ code generation tool for MPC with the continuous/GMRES-type algorithms.
 The major differences from the [Maple-version](https://www.maplesoft.com/applications/view.aspx?SID=153555) are: 1) Jupyter-based code generation interface, 2) Fischer-Burumeister function for inequality constraints, 3) the multiple-shooting variants of the continuous/GMRE method (possibly faster than the original continuation/GMRES).  
