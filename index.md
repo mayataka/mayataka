@@ -45,8 +45,9 @@ This is an optimal control solver for switched systems on Julia language.
 
 - [maafa](https://github.com/mayataka/maafa)  
 This is a PyTorch implementation of a reinforcement-learning-based data-driven MPC proposed by [S. Gros and M. Zanon](https://ieeexplore.ieee.org/abstract/document/8701462), which I personally call "MPC as a Function Approximator", as introduced in the paper. 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/maafa/images/pendulum_inaccurate.gif" width="250"> &nbsp;
-<img src="https://raw.githubusercontent.com/wiki/mayataka/maafa/images/pendulum_q_learning.gif" width="250">
+
+<img src="https://raw.githubusercontent.com/wiki/mayataka/maafa/images/pendulum_inaccurate.gif" width="200"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/maafa/images/pendulum_q_learning.gif" width="200">
 
 - [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter)  
 This is a Jupyter-based C++ code generation tool for MPC with the continuous/GMRES-type algorithms.
