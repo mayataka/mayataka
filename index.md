@@ -32,9 +32,9 @@ Bachelor of Engineering Science
 - S. Katayama, Y. Satoh, M. Doi and T. Ohtsuka, "Nonlinear model predictive control for systems with autonomous state jumps using a penalty function method," 2017 11th Asian Control Conference (ASCC), pp. 2125-2130, 2017, doi: 10.1109/ASCC.2017.8287503.
 
 ## Open Source Software
-- [idocp](https://github.com/mayataka/idocp)  
-This is a collection of the very efficient C++/Python optimal control problem solvers for multibody robots with/without contacts, e.g., for robot manipulators and legged robots.  
-<img src="https://raw.githubusercontent.com/wiki/mayataka/idocp/images/mpc_trotting.gif" width="250">  
+- [robotoc](https://github.com/mayataka/robotoc)  
+This is a collection of the very efficient C++/Python optimal control problem solvers for multibody robotic systems with/without contacts, e.g., for robot manipulators and legged robots.  
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/mpc_trotting.gif" width="250">  
   - [crane_x7_mpc_ros2](https://github.com/mayataka/crane_x7_mpc_ros2)  
   This is an example imepelemtation of MPC for RT corpolation's robot manipulator CRANE-X7 on ROS2 using ros2_control.   
   - [crane_x7_mpc](https://github.com/mayataka/crane_x7_mpc)  
