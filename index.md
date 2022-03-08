@@ -19,8 +19,9 @@ Bachelor of Engineering Science
 - Hitachi, Ltd., R&D, 2019-2020
 
 ## Publications
-- <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient direct optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
-- <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
+- <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
+- <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
+- <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
 - <u>S. Katayama</u>, T. Ohtsuka, "Inverse dynamics‐based formulation of finite horizon optimal control problems for rigid‐body system," *Optimal Control Applications and Methods*, pp. 1-19, 2021, https://doi.org/10.1002/oca.2750.  
 - <u>S. Katayama</u>, T. Ohtsuka, "Riccati recursion for optimal control problems of nonlinear switched systems," IFAC Conference on Nonlinear Model Predictive Control 2021 (NMPC 2021), 2021 ([arXiv:2102.02065](https://arxiv.org/abs/2102.02065)).  
 - <u>S. Katayama</u>, T. Ohtsuka, "Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems," IEEE International Conference on Robotics and Automation 2021 (ICRA 2021), 2021 ([arXiv:2106.04176](https://arxiv.org/abs/2106.04176)).
@@ -34,14 +35,13 @@ Bachelor of Engineering Science
 ## Open Source Software
 - [robotoc](https://github.com/mayataka/robotoc)  
 This is a collection of the very efficient C++/Python optimal control problem solvers for multibody robotic systems with/without contacts, e.g., for robot manipulators and legged robots.  
-<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/mpc_trotting.gif" width="250">  
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/longitudinal_mpc_x05.gif" width="150"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/lateral_mpc_x05.gif" width="150"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/rotational_mpc_x05.gif" width="150"> 
   - [crane_x7_mpc_ros2](https://github.com/mayataka/crane_x7_mpc_ros2)  
   This is an example imepelemtation of MPC for RT corpolation's robot manipulator CRANE-X7 on ROS2 using ros2_control.   
   - [crane_x7_mpc](https://github.com/mayataka/crane_x7_mpc)  
   This is ROS1 version using ros_control
-
-- [SwitchedOCP.jl](https://github.com/mayataka/SwitchedOCP.jl)  
-This is an optimal control solver for switched systems on Julia language.
 
 - [maafa](https://github.com/mayataka/maafa)  
 This is a PyTorch implementation of a reinforcement-learning-based data-driven MPC proposed by [S. Gros and M. Zanon](https://ieeexplore.ieee.org/abstract/document/8701462), which I personally call "MPC as a Function Approximator", as introduced in the paper. 
