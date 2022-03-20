@@ -1,9 +1,11 @@
 ## Sotaro Katayama
 [[GitHub](https://github.com/mayataka)/[Google Scolar](https://scholar.google.com/citations?user=Q9WyTw4AAAAJ&hl=en)/[Research Gate](https://www.researchgate.net/profile/Sotaro-Katayama)]
+  
 
 I'm a Ph. D. student in Integrated Dynamical Systems Lab ([English](http://www.ids.sys.i.kyoto-u.ac.jp/index_e.html)/[Japanese](http://www.ids.sys.i.kyoto-u.ac.jp/)) advised by Prof. Toshiyuki Ohtsuka. 
 My research lies on optimization-based control and planning of robotic systems, especially model predictive control (MPC) for legged robotics. 
 I'm also interested in algorithms and theoretical analysis (e.g., stability) of MPC, including MPC for switched systems. 
+  
 
 ## Education
 - Kyoto University, 2019 - Present  
