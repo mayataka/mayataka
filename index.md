@@ -25,8 +25,15 @@ Bachelor of Engineering Science
 ## Selected Research Projects
 ### Whoel-body model predictive control (MPC) via online switching time optimization
 This project presents a novel whole-body MPC in which the future trajectory and switching times (contact timings) are simultaneously optimized online.
+We demonstrate that the proposed approach extends the ability of whole-body MPC through experiments.
 
 - <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
+
+### Structure-exploiting Newton-type method for optimal control of switched systems
+This project proposes an efficient Newton-type algorithm for solving the optimal control problems of switches systems under a given switching sequence.
+The proposed method achieves: 1. fast convergence (a local convergence is guaranteed), 2. fast computational time per Newton-type iteration (linear time-complexity w.r.t. the horizon length).
+Numerical experiemnts shows that our mehtods can optimize the whole-body trajectory of complex robot motions in significant short times.
+
 
 
 ## Publications
