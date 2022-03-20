@@ -37,7 +37,7 @@ We demonstrate that the proposed approach extends the ability of whole-body MPC 
 
 Figure: Comparison between the proposed MPC-STO and the conventional MPC. 
 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/mpc_sto_vs_mpc.gif" width="350">
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/mpc_sto_vs_mpc.gif" width="300">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
 
@@ -48,8 +48,8 @@ Numerical experiments show that our method can optimize the whole-body trajector
 
 Figure: Convergence behaviour of the proposed method for whole-body optimal control of a quadrupedal robot. t1 and t2 are the switching times. 
 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="225"> &nbsp;
-<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/jumping_sto_kkt.png" width="350">
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="190"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/jumping_sto_kkt.png" width="300">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
 
@@ -61,7 +61,7 @@ Numerical results on whole-body optimal control of legged robots show that the p
 
 Figure: CPU time comparison between the proposed (DMS-LCD) and previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/comparison_lifted_cd.png" width="350">
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/comparison_lifted_cd.png" width="320">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
 
