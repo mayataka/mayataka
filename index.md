@@ -31,9 +31,13 @@ Bachelor of Engineering Science
  
 
 ## Selected Research Projects
-### Whole-body model predictive control (MPC) via online switching time optimization
+### Whole-body model predictive control (MPC) via online switching time optimization (STO)
 This project presents a novel whole-body MPC in which the future trajectory and switching times (contact timings) are simultaneously optimized online.
 We demonstrate that the proposed approach extends the ability of whole-body MPC through experiments.
+
+Figure: Comparison between the proposed MPC-STO and the conventional MPC. 
+
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/mpc_sto_vs_mpc.gif" width="350">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
 
