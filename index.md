@@ -29,7 +29,7 @@ Bachelor of Engineering Science
 
 
 ## Selected Research Projects
-### Whoel-body model predictive control (MPC) via online switching time optimization
+### Whole-body model predictive control (MPC) via online switching time optimization
 This project presents a novel whole-body MPC in which the future trajectory and switching times (contact timings) are simultaneously optimized online.
 We demonstrate that the proposed approach extends the ability of whole-body MPC through experiments.
 
@@ -37,25 +37,25 @@ We demonstrate that the proposed approach extends the ability of whole-body MPC 
 
 ### Structure-exploiting Newton-type method for optimal control of switched systems
 This project proposes an efficient Newton-type algorithm for solving the optimal control problems of switches systems under a given switching sequence.
-The proposed method achieves: 1. fast local convergence (a local convergence is guaranteed), 2. fast computational time per Newton-type iteration (linear time-complexity w.r.t. the horizon length).
-Numerical experiemnts shows that our mehtods can optimize the whole-body trajectory of complex robot motions in significant short times.
+The proposed method achieves 1) fast local convergence (a local convergence is guaranteed), 2) fast Newton-step computation (linear time-complexity w.r.t. the horizon length).
+Numerical experiments show that our method can optimize the whole-body trajectory of complex robot motions in significant short times.
 
 - <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
 
 
 ### Lifted contact dynamics for efficient optimal control of rigid body systems with contacts
-This project presents an lifting approach for optimal control of rigid body systems with contacts (e.g., legged robots).
+This project presents a lifting approach for optimal control of rigid body systems with contacts (e.g., legged robots).
 We lift the original optimization problem into a higher dimensional one to real the high nonlinearity while keeping the computational efficiency.
-Numerical results on whole-body optimal control of legged robots shows that the proposed method can reduce the computational time drastically in the presense of active constriants.
+Numerical results on whole-body optimal control of legged robots show that the proposed method can reduce the computational time drastically in the presence of active friction cone constraints.
 
 - <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
 
 
 ### Efficient Riccati recursion for optimal control problems with pure-state equality constraints
-Riccati recursion algorithm is a well-known efficient algorithm both in MPC community and in robotics community (e.g., knwon as DDP or iLQR).
-One of its drawback is that it cannot pure-state equality constraints efficiently, which typically arise in robotic problems.
-We propose an efficient constraint-transoformation approach while a certain optilimality is guaranteed.
-The numerical results on whole-body optimal control of legged robots shows the efficiency of the proposed method.
+Riccati recursion algorithm is a well-known efficient algorithm both in the MPC community and in the robotics community (e.g., known as DDP or iLQR).
+One of its drawbacks is that it cannot pure-state equality constraints efficiently, which typically arise in robotic problems.
+We propose an efficient constraint-transformation approach while certain optimality is guaranteed.
+The numerical results on whole-body optimal control of legged robots show the efficiency of the proposed method.
 
 - <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
 
