@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Sotaro Katayama
 [[GitHub](https://github.com/mayataka)/[Google Scolar](https://scholar.google.com/citations?user=Q9WyTw4AAAAJ&hl=en)/[Research Gate](https://www.researchgate.net/profile/Sotaro-Katayama)]
   
