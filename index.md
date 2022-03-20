@@ -52,14 +52,14 @@ Numerical results on whole-body optimal control of legged robots show that the p
 
 
 ### Efficient Riccati recursion for optimal control problems with pure-state equality constraints
-Riccati recursion algorithm is a well-known efficient algorithm both in the MPC community and in the robotics community (e.g., known as DDP or iLQR).
+Riccati recursion algorithm is a well-known efficient algorithm both in the MPC community and robotics community (e.g., known as DDP or iLQR).
 One of its drawbacks is that it cannot pure-state equality constraints efficiently, which typically arise in robotic problems.
 We propose an efficient constraint-transformation approach while the second-order convergence speed and a certain optimality are guaranteed.
 The numerical results on whole-body optimal control of legged robots show the efficiency of the proposed method.
 
-Figure: CPU time comparison between the proposed, previous, and augmented Lagrangian (AL) methods.
+Figure: CPU time comparison between the proposed, previous, and augmented Lagrangian (AL) methods for whole-body optimal control of a quadrupedal trotting.
 
-![RiccatiPureStateComparison](./assets/trotting_CPU.png)
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/trotting_CPU.png" width="400">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
 
