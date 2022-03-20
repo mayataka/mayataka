@@ -45,7 +45,7 @@ This project proposes an efficient Newton-type algorithm for solving the optimal
 The proposed method achieves 1) fast local convergence (a local convergence is guaranteed), 2) fast Newton-step computation (linear time-complexity w.r.t. the horizon length).
 Numerical experiments demonstrate that our method can optimize the whole-body trajectory of complex robot motions in significant short times.
 
-Figure: Convergence behaviour of the proposed method for whole-body optimal control of a quadrupedal robot. t1 and t2 are the switching times. 
+Figure: Convergence behavior of the proposed method for whole-body optimal control of a quadrupedal robot. t1 and t2 are the switching times. 
 
 <img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="190"> &nbsp;
 <img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/jumping_sto_kkt.png" width="300">
@@ -68,7 +68,7 @@ Paper: <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient op
 ### Efficient Riccati recursion for optimal control problems with pure-state equality constraints
 Riccati recursion algorithm is a well-known efficient algorithm both in the MPC community and robotics community (e.g., known as DDP or iLQR).
 One of its drawbacks is that it cannot pure-state equality constraints efficiently, which typically arise in robotic problems.
-We propose an efficient constraint-transformation approach while the second-order convergence speed and a certain optimality are guaranteed.
+We propose an efficient constraint-transformation approach while the second-order convergence speed and certain optimality are guaranteed.
 The numerical results on whole-body optimal control of legged robots show the efficiency of the proposed method.
 
 Figure: CPU time comparison between the proposed, previous, and augmented Lagrangian (AL) methods for whole-body optimal control of a quadrupedal trotting.
@@ -79,7 +79,7 @@ Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal 
 
 
 ### Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems
-This project presents an solution method of optimal control problem of rigid body systems based on inverse dynamics, which is particulary efficient for fixed-based robots (e.g., robot manipulators).
+This project presents a solution method of optimal control problem of rigid body systems based on inverse dynamics, which is particularly efficient for fixed-based robots (e.g., robot manipulators).
 
 Figure: CPU time comparison between the proposed and existing methods for optimal control of a robot manipulator.
 
