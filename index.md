@@ -40,7 +40,12 @@ This project proposes an efficient Newton-type algorithm for solving the optimal
 The proposed method achieves 1) fast local convergence (a local convergence is guaranteed), 2) fast Newton-step computation (linear time-complexity w.r.t. the horizon length).
 Numerical experiments show that our method can optimize the whole-body trajectory of complex robot motions in significant short times.
 
-- <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
+Figure: Convergence behaviour of the proposed method for whole-body optimal control of a quadrupedal robot. t1 and t2 are the switching times. 
+
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="240"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/jumping_sto_kkt.png" width="350">
+
+Paper: <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
 
 
 ### Lifted contact dynamics for efficient optimal control of rigid body systems with contacts
@@ -48,7 +53,7 @@ This project presents a lifting approach for optimal control of rigid body syste
 We lift the original optimization problem into a higher dimensional one to real the high nonlinearity while keeping the computational efficiency.
 Numerical results on whole-body optimal control of legged robots show that the proposed method can reduce the computational time drastically in the presence of active friction cone constraints.
 
-Figure: CPU time comparison between the proposed (DMS-LCD), previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
+Figure: CPU time comparison between the proposed (DMS-LCD) and previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
 
 <img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/comparison_lifted_cd.png" width="350">
 
