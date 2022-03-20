@@ -21,6 +21,14 @@ Bachelor of Engineering Science
 ## Work Experience
 - Hitachi, Ltd., R&D, 2019-2020
 
+
+## Selected Research Projects
+### Whoel-body model predictive control (MPC) via online switching time optimization
+This project presents a novel whole-body MPC in which the future trajectory and switching times (contact timings) are simultaneously optimized online.
+
+- <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
+
+
 ## Publications
 - <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
 - <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
