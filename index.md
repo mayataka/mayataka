@@ -57,6 +57,8 @@ One of its drawbacks is that it cannot pure-state equality constraints efficient
 We propose an efficient constraint-transformation approach while certain optimality is guaranteed.
 The numerical results on whole-body optimal control of legged robots show the efficiency of the proposed method.
 
+<img src="https://github.com/mayataka/mayataka/blob/gh-pages/_figs/trotting_CPU.pdf" width="250"> 
+
 - <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
 
 
