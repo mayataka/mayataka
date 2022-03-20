@@ -33,7 +33,7 @@ Bachelor of Engineering Science
 This project presents a novel whole-body MPC in which the future trajectory and switching times (contact timings) are simultaneously optimized online.
 We demonstrate that the proposed approach extends the ability of whole-body MPC through experiments.
 
-- <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
+Paper: <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
 
 ### Structure-exploiting Newton-type method for optimal control of switched systems
 This project proposes an efficient Newton-type algorithm for solving the optimal control problems of switches systems under a given switching sequence.
@@ -42,7 +42,7 @@ Numerical experiments show that our method can optimize the whole-body trajector
 
 Figure: Convergence behaviour of the proposed method for whole-body optimal control of a quadrupedal robot. t1 and t2 are the switching times. 
 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="240"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="230"> &nbsp;
 <img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/jumping_sto_kkt.png" width="350">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
