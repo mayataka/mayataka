@@ -55,7 +55,7 @@ Paper: <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method 
 
 ### Lifted contact dynamics for efficient optimal control of rigid body systems with contacts
 This project presents a lifting approach for optimal control of rigid body systems with contacts (e.g., legged robots).
-We lift the original optimization problem into a higher dimensional one to real the high nonlinearity while keeping the computational efficiency.
+We lift the original optimization problem into a higher dimensional one to real the high nonlinearity due to the contact dynamics while keeping the computational efficiency.
 Numerical results on whole-body optimal control of legged robots show that the proposed method can reduce the computational time drastically in the presence of active friction cone constraints.
 
 Figure: CPU time comparison between the proposed (DMS-LCD) and previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
@@ -76,6 +76,16 @@ Figure: CPU time comparison between the proposed, previous, and augmented Lagran
 <img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/trotting_CPU.png" width="300">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
+
+
+### Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems
+This project presents an solution method of optimal control problem of rigid body systems based on inverse dynamics, which is particulary efficient for fixed-based robots (e.g., robot manipulators).
+
+Figure: CPU time comparison between the proposed and existing methods for optimal control of a robot manipulator.
+
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/time.png" width="300">
+
+Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems," IEEE International Conference on Robotics and Automation 2021 (ICRA 2021), 2021 ([arXiv:2106.04176](https://arxiv.org/abs/2106.04176)).
 
 
 ## Publications
