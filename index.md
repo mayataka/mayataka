@@ -48,7 +48,11 @@ This project presents a lifting approach for optimal control of rigid body syste
 We lift the original optimization problem into a higher dimensional one to real the high nonlinearity while keeping the computational efficiency.
 Numerical results on whole-body optimal control of legged robots show that the proposed method can reduce the computational time drastically in the presence of active friction cone constraints.
 
-- <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
+Figure: CPU time comparison between the proposed (DMS-LCD), previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
+
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/comparison_lifted_cd.png" width="350">
+
+Paper: <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
 
 
 ### Efficient Riccati recursion for optimal control problems with pure-state equality constraints
@@ -59,7 +63,7 @@ The numerical results on whole-body optimal control of legged robots show the ef
 
 Figure: CPU time comparison between the proposed, previous, and augmented Lagrangian (AL) methods for whole-body optimal control of a quadrupedal trotting.
 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/trotting_CPU.png" width="400">
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/trotting_CPU.png" width="350">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
 
