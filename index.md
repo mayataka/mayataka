@@ -58,6 +58,9 @@ We propose an efficient constraint-transformation approach while the second-orde
 The numerical results on whole-body optimal control of legged robots show the efficiency of the proposed method.
 
 - Figure: CPU time comparison between the proposed, previous, and augmented Lagrangian (AL) methods.
+<img src="gh-pages/assets/trotting_CPU.pdf" width="250"> 
+
+<img src="gh-pages/assets/trotting_CPU.pn g" width="250"> 
 
 ![RiccatiPureStateComparison](gh-pages/assets/trotting_CPU.pdf)
 
