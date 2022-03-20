@@ -32,8 +32,7 @@ Bachelor of Engineering Science
 
 ## Selected Research Projects
 ### Whole-body model predictive control (MPC) via online switching time optimization (STO)
-This project presents a novel whole-body MPC in which the future trajectory and switching times (contact timings) are simultaneously optimized online.
-We demonstrate that the proposed approach extends the ability of whole-body MPC through experiments.
+This project presents a novel whole-body MPC in which the future trajectory and switching times (contact timings) are simultaneously optimized online, which pushes the ability of the whole-body MPC.
 
 Figure: Comparison between the proposed MPC-STO and the conventional MPC. 
 
@@ -44,7 +43,7 @@ Paper: <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with
 ### Structure-exploiting Newton-type method for optimal control of switched systems
 This project proposes an efficient Newton-type algorithm for solving the optimal control problems of switches systems under a given switching sequence.
 The proposed method achieves 1) fast local convergence (a local convergence is guaranteed), 2) fast Newton-step computation (linear time-complexity w.r.t. the horizon length).
-Numerical experiments show that our method can optimize the whole-body trajectory of complex robot motions in significant short times.
+Numerical experiments demonstrate that our method can optimize the whole-body trajectory of complex robot motions in significant short times.
 
 Figure: Convergence behaviour of the proposed method for whole-body optimal control of a quadrupedal robot. t1 and t2 are the switching times. 
 
