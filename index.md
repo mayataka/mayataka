@@ -58,13 +58,13 @@ We propose an efficient constraint-transformation approach while the second-orde
 The numerical results on whole-body optimal control of legged robots show the efficiency of the proposed method.
 
 - Figure: CPU time comparison between the proposed, previous, and augmented Lagrangian (AL) methods.
-<img src="gh-pages/assets/trotting_CPU.pdf" width="250"> 
+<img src="./assets/trotting_CPU.pdf" width="250"> 
 
-<img src="gh-pages/assets/trotting_CPU.pn g" width="250"> 
+<img src="./assets/trotting_CPU.pn g" width="250"> 
 
-![RiccatiPureStateComparison](gh-pages/assets/trotting_CPU.pdf)
+![RiccatiPureStateComparison](./assets/trotting_CPU.pdf)
 
-![RiccatiPureStateComparison](gh-pages/assets/trotting_CPU.png)
+![RiccatiPureStateComparison](./assets/trotting_CPU.png)
 
 
 - Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
