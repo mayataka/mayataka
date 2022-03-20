@@ -21,12 +21,14 @@ Master of Informatics
 - Kyoto University, 2013 - 2017  
 Bachelor of Engineering Science
 
+ 
 ## Internship
 - OMRON SINIC X, 2021 - 2022
+ 
 
 ## Work Experience
 - Hitachi, Ltd., R&D, 2019-2020
-
+ 
 
 ## Selected Research Projects
 ### Whole-body model predictive control (MPC) via online switching time optimization
@@ -42,7 +44,7 @@ Numerical experiments show that our method can optimize the whole-body trajector
 
 Figure: Convergence behaviour of the proposed method for whole-body optimal control of a quadrupedal robot. t1 and t2 are the switching times. 
 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="230"> &nbsp;
+<img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/jumping_sto.gif" width="225"> &nbsp;
 <img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/jumping_sto_kkt.png" width="350">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
@@ -68,7 +70,7 @@ The numerical results on whole-body optimal control of legged robots show the ef
 
 Figure: CPU time comparison between the proposed, previous, and augmented Lagrangian (AL) methods for whole-body optimal control of a quadrupedal trotting.
 
-<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/trotting_CPU.png" width="350">
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/trotting_CPU.png" width="300">
 
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
 
