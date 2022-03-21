@@ -81,7 +81,7 @@ Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal 
 
 
 ### Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems
-This project presents a solution method of optimal control problem of rigid body systems based on inverse dynamics, which is particularly efficient for fixed-based robots (e.g., robot manipulators).
+This project presents a solution method of optimal control problem of rigid body systems leveraging inverse dynamics-based formulation, which is particularly efficient for fixed-based robots (e.g., robot manipulators).
 
 Figure: CPU time comparison between the proposed and existing methods for optimal control of a robot manipulator.
 
