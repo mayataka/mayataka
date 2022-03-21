@@ -57,7 +57,7 @@ Paper: <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method 
 
 ### Lifted contact dynamics for efficient optimal control of rigid body systems with contacts
 This project presents a lifting approach for optimal control of rigid body systems with contacts (e.g., legged robots).
-We lift the original optimization problem into a higher dimensional one to real the high nonlinearity due to the contact dynamics while keeping the computational efficiency.
+We lift the original optimization problem into a higher dimensional one to relax the high nonlinearity due to the contact dynamics while keeping the computational efficiency.
 Numerical results on whole-body optimal control of legged robots show that the proposed method can reduce the computational time drastically in the presence of active friction cone constraints.
 
 Figure: CPU time comparison between the proposed (DMS-LCD) and previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
