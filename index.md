@@ -113,10 +113,6 @@ This is a collection of the very efficient C++/Python optimal control problem so
 <img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/longitudinal_mpc_x05.gif" width="150"> &nbsp;
 <img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/lateral_mpc_x05.gif" width="150"> &nbsp;
 <img src="https://raw.githubusercontent.com/wiki/mayataka/robotoc/images/rotational_mpc_x05.gif" width="150"> 
-  - [crane_x7_mpc_ros2](https://github.com/mayataka/crane_x7_mpc_ros2)  
-  This is an example imepelemtation of MPC for RT corpolation's robot manipulator CRANE-X7 on ROS2 using ros2_control.   
-  - [crane_x7_mpc](https://github.com/mayataka/crane_x7_mpc)  
-  This is ROS1 version using ros_control
 
 - [maafa](https://github.com/mayataka/maafa)  
 This is a PyTorch implementation of a reinforcement-learning-based data-driven MPC proposed by [S. Gros and M. Zanon](https://ieeexplore.ieee.org/abstract/document/8701462), which I personally call "MPC as a Function Approximator", as introduced in the paper. 
