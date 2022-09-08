@@ -5,7 +5,7 @@ layout: default
 ## Sotaro Katayama
 [[GitHub](https://github.com/mayataka)/[Google Scolar](https://scholar.google.com/citations?user=Q9WyTw4AAAAJ&hl=en)/[Research Gate](https://www.researchgate.net/profile/Sotaro-Katayama)]
 
-Email: katayama.25w@st.kyoto-u.ac.jp
+Email: katayama@sys.i.kyoto-u.ac.jp
   
 
 I'm a Ph. D. student in Integrated Dynamical Systems Lab ([English](http://www.ids.sys.i.kyoto-u.ac.jp/index_e.html)/[Japanese](http://www.ids.sys.i.kyoto-u.ac.jp/)) advised by Prof. Toshiyuki Ohtsuka. 
@@ -40,7 +40,20 @@ Figure: Comparison between the proposed MPC-STO and the conventional MPC.
 
 <img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/mpc_sto_vs_mpc.gif" width="300">
 
-Paper: <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
+Paper: <u>S. Katayama</u>, T. Ohtsuka, "Whole-body model predictive control with rigid contacts via online switching time optimization," 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) (accepted), [arXiv preprint arXiv:2203.00997](https://arxiv.org/abs/2203.00997).
+
+
+### Lifted contact dynamics for efficient optimal control of rigid body systems with contacts
+This project presents a lifting approach for optimal control of rigid body systems with contacts (e.g., legged robots).
+We lift the original optimization problem into a higher dimensional one to relax the high nonlinearity due to the contact dynamics while keeping the computational efficiency.
+Numerical results on whole-body optimal control of legged robots show that the proposed method can reduce the computational time drastically in the presence of active friction cone constraints.
+
+Figure: CPU time comparison between the proposed (DMS-LCD) and previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
+
+<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/comparison_lifted_cd.png" width="320">
+
+Paper: <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient optimal control of rigid body systems with contacts," 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) (accepted), [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
+
 
 ### Structure-exploiting Newton-type method for optimal control of switched systems
 This project proposes an efficient Newton-type algorithm for solving the optimal control problems of switches systems under a given switching sequence.
@@ -55,17 +68,6 @@ Figure: Convergence behavior of the proposed method for whole-body optimal contr
 Paper: <u>S. Katayama</u>, T. Ohtsuka, "Structure-exploiting Newton-type method for optimal control of switched systems," [arXiv preprint arXiv:2112.07232](https://arxiv.org/abs/2112.07232).
 
 
-### Lifted contact dynamics for efficient optimal control of rigid body systems with contacts
-This project presents a lifting approach for optimal control of rigid body systems with contacts (e.g., legged robots).
-We lift the original optimization problem into a higher dimensional one to relax the high nonlinearity due to the contact dynamics while keeping the computational efficiency.
-Numerical results on whole-body optimal control of legged robots show that the proposed method can reduce the computational time drastically in the presence of active friction cone constraints.
-
-Figure: CPU time comparison between the proposed (DMS-LCD) and previous methods (DMS-CD, DMS-ID, FDDP, iLQR) for whole-body optimal control of a quadrupedal robot.
-
-<img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/comparison_lifted_cd.png" width="320">
-
-Paper: <u>S. Katayama</u>, T. Ohtsuka, "Lifted contact dynamics for efficient optimal control of rigid body systems with contacts," [arXiv preprint arXiv:2108.01781](https://arxiv.org/abs/2108.01781).
-
 
 ### Efficient Riccati recursion for optimal control problems with pure-state equality constraints
 Riccati recursion algorithm is a well-known efficient algorithm both in the MPC community and robotics community (e.g., known as DDP or iLQR).
@@ -77,7 +79,7 @@ Figure: CPU time comparison between the proposed, previous, and augmented Lagran
 
 <img src="https://raw.githubusercontent.com/wiki/mayataka/mayataka/images/trotting_CPU.png" width="300">
 
-Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022) (accepted), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
+Paper: <u>S. Katayama</u>, T. Ohtsuka, "Efficient Riccati recursion for optimal control problems with pure-state equality constraints," 2022 American Control Conference (ACC 2022), [arXiv:2102.09731](https://arxiv.org/abs/2102.09731).
 
 
 ### Efficient solution method based on inverse dynamics for optimal control problems of rigid body systems
