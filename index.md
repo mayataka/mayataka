@@ -129,6 +129,3 @@ This is a Jupyter-based C++ code generation tool for MPC with the continuous/GMR
 The major differences from the [Maple-version](https://www.maplesoft.com/applications/view.aspx?SID=153555) are: 1) Jupyter-based code generation interface, 2) Fischer-Burumeister function for inequality constraints, 3) the multiple-shooting variants of the continuous/GMRE method (possibly faster than the original continuation/GMRES).  
 <img src="https://raw.githubusercontent.com/wiki/mayataka/CGMRES/images/cartpole.gif" width="250">  
 
-
-- [DDPCodeGen](https://github.com/mayataka/DDPCodeGen)  
-This is a code generation tool for differential dynamic programming, based on the code-generation system of autogenu-jupyter.
